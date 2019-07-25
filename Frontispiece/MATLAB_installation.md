@@ -156,7 +156,7 @@ A succesfull installation should be able to execute the script at `TIGRE/MATLAB/
 4. Download TIGRE
 
    If you are using git, run: `git clone https://github.com/CERN/TIGRE.git`\
-   Manually [download zip file](https://github.com/CERN/TIGRE/archive/master.zip) oherwise.
+   Manually [download zip file](https://github.com/CERN/TIGRE/archive/master.zip) otherwise.
    
 5. Make sure your terminal knows where CUDA is.
 
